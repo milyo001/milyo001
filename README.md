@@ -1,4 +1,4 @@
-### Hi there, I am Miro!
+### 👋 Hi there, I am Miro!
 #### Recently I've left my job to start learning/coding full time without distractions. 
 #### I am looking for an entry level job to utilize my skills and I am open for new opportunities!
 
