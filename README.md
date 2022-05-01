@@ -1,4 +1,4 @@
-### 👋 Hi there, I am Miro!
+### 👋 Hi there, I am Miro! I am 29 years problem solver - programmer.
 #### Recently I've left my non-Technical job to start learning/coding full time without distractions. 
 #### I am looking for an entry level job to utilize my skills and I am open for new opportunities!
 
