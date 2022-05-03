@@ -9,7 +9,7 @@
 * 🤔 I’m looking for help with: nothing at the moment, trying to learn stuff by myself. Open for tips and tricks tho! 
 * 💬 Ask me about: anything.
 * 📫 How to reach me: [💼 LinkedIn](https://www.linkedin.com/in/miroslav-ilyovski-2ab573150) or 📫 [email](mailto:ilyovskim@gmail.com)
-* ❤️ I love working out, hiking, video games and obviously coding :grin:.
+* ❤️ I love  :fire: working out, :tent: hiking, :video_game: video games, :chart_with_upwards_trend: stock/crypto trading and :computer: obviously coding :grin:.
 
 
 #### ![](https://komarev.com/ghpvc/?username=milyo001&color=grey)
