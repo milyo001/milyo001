@@ -2,7 +2,7 @@
 #### Recently I've left my non-Technical job to start learning/coding full time without distractions. 
 #### I am looking for an entry level job to utilize my skills and I am open for new opportunities!
 
-<br>
+<br />
 
 * 🔭 I’m currently working on personal projects - mostly [Footwear](https://github.com/milyo001/Footwear).
 * 🌱 I’m currently learning C# Design Patterns.
@@ -12,7 +12,6 @@
 * 📢 We can communicate in English, German and Bulgarian. 💡 
 * 📫 How to reach me: [💼 LinkedIn](https://www.linkedin.com/in/miroslav-ilyovski-2ab573150) or 📫 [email](mailto:ilyovskim@gmail.com)
 
-
-<br>
+<br />
 
 #### ![](https://komarev.com/ghpvc/?username=milyo001&color=grey)
