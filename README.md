@@ -4,7 +4,7 @@
 
 <br />
 
-* 🔭 I’m currently doing a task for a betting company.(in private repo)
+* 🔭 I’m currently doing a task for a betting company. (in private repo)
 * 🌱 I’m currently learning C# Design Patterns.
 * 🤔 I’m looking for help with: nothing at the moment, trying to learn stuff by myself. Open for tips and tricks tho! 
 * 💬 Ask me about: anything.
