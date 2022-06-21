@@ -14,11 +14,22 @@
 
 <br />
 
-## Toolbox
+## Toolbox :toolbox:
 #### Front-end
-<kbd><img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" width="50" height="50"/></kbd>
-<kbd><img src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg" width="50" height="50" /></kbd> <kbd><img src="https://cdn.worldvectorlogo.com/logos/npm.svg" width="50" height="50" /></kbd> <kbd><img src="https://cdn.worldvectorlogo.com/logos/yarn.svg" width="50" height="50" /></kbd> <kbd><img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width="50" height="50" /></kbd> <kbd><img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width="50" height="50" /></kbd> <kbd><img src="https://cdn.worldvectorlogo.com/logos/json.svg" width="50" height="50" /></kbd> <kbd><img src="https://cdn.worldvectorlogo.com/logos/xml-2.svg" width="50" height="50" /></kbd> <kbd><img src="https://cdn.worldvectorlogo.com/logos/rxjs-1.svg" width="50" height="50" /></kbd> <kbd><img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" width="50" height="50" /></kbd> 
+<kbd><img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="test" width="50" height="50"/></kbd>
+<kbd><img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" width="50" height="50"/></kbd> 
+<kbd><img src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg" width="50" height="50" /></kbd>
+<kbd><img src="https://cdn.worldvectorlogo.com/logos/npm.svg" width="50" height="50" /></kbd> 
+<kbd><img src="https://cdn.worldvectorlogo.com/logos/yarn.svg" width="50" height="50" /></kbd> 
+<kbd><img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width="50" height="50" /></kbd> 
+<kbd><img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width="50" height="50" /></kbd> 
+<kbd><img src="https://cdn.worldvectorlogo.com/logos/rxjs-1.svg" width="50" height="50" /></kbd> 
+<kbd><img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" width="50" height="50" /></kbd> 
 
+#### Back-end
+#### Common
+<kbd><img src="https://cdn.worldvectorlogo.com/logos/json.svg" width="50" height="50" /></kbd> 
+<kbd><img src="https://cdn.worldvectorlogo.com/logos/xml-2.svg" width="50" height="50" /></kbd> 
 
 
 #### ![](https://komarev.com/ghpvc/?username=milyo001&color=grey)
