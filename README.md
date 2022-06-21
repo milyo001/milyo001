@@ -14,10 +14,10 @@
 
 <br />
 
-#### Toolbox
-<img src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg" width="50" height="50" />
-<img src="https://cdn.worldvectorlogo.com/logos/npm.svg" width="50" height="50" />
-
+## Toolbox
+#### Front-end
+<kbd><img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" width="50" height="50"/></kbd>
+<kbd><img src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg" width="50" height="50" /></kbd> <kbd><img src="https://cdn.worldvectorlogo.com/logos/npm.svg" width="50" height="50" /></kbd> <kbd><img src="https://cdn.worldvectorlogo.com/logos/yarn.svg" width="50" height="50" /></kbd> <kbd><img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width="50" height="50" /></kbd> <kbd><img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width="50" height="50" /></kbd> <kbd><img src="https://cdn.worldvectorlogo.com/logos/json.svg" width="50" height="50" /></kbd> <kbd><img src="https://cdn.worldvectorlogo.com/logos/xml-2.svg" width="50" height="50" /></kbd> <kbd><img src="https://cdn.worldvectorlogo.com/logos/rxjs-1.svg" width="50" height="50" /></kbd> <kbd><img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" width="50" height="50" /></kbd> 
 
 
 
