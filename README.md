@@ -25,6 +25,11 @@
 <kbd><img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" width="50" height="50" /></kbd> 
 
 #### Back-end
+<kbd><img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" width="50" height="50" /></kbd> 
+<kbd><img src="https://cdn.worldvectorlogo.com/logos/dot-net-core-7.svg" width="50" height="50" /></kbd> 
+<kbd><img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server-1.svg" width="50" height="50" /></kbd> 
+<kbd><img src="https://codeopinion.com/wp-content/uploads/2017/10/Bitmap-MEDIUM_Entity-Framework-Core-Logo_2colors_Square_Boxed_RGB.png" width="50" height="50" /></kbd> 
+<kbd><img src="https://cdn.worldvectorlogo.com/logos/azure-1.svg" width="50" height="50" /></kbd> 
 <kbd><img src="https://cdn.worldvectorlogo.com/logos/jwt-3.svg" width="50" height="50" /></kbd> 
 #### Common
 <kbd><img src="https://cdn.worldvectorlogo.com/logos/json.svg" width="50" height="50" /></kbd> 
