@@ -32,10 +32,14 @@
 <kbd><img src="https://cdn.worldvectorlogo.com/logos/azure-1.svg" width="50" height="50" /></kbd> 
 <kbd><img src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" width="50" height="50" /></kbd> 
 <kbd><img src="https://backendless.com/wp-content/uploads/2019/03/square_logo_450x450.png" width="50" height="50" /></kbd> 
+<kbd><img src="http://taswar.zeytinsoft.com/wp-content/uploads/2011/03/automapper-logo.jpg" width="50" height="50" /></kbd> 
+<kbd><img src="https://cdn.worldvectorlogo.com/logos/stripe-4.svg" width="50" height="50" /></kbd> 
+<kbd><img src="https://cdn.worldvectorlogo.com/logos/handlebars.svg" width="50" height="50" /></kbd> 
 <kbd><img src="https://cdn.worldvectorlogo.com/logos/jwt-3.svg" width="50" height="50" /></kbd> 
 #### Common
 <kbd><img src="https://cdn.worldvectorlogo.com/logos/json.svg" width="50" height="50" /></kbd> 
 <kbd><img src="https://cdn.worldvectorlogo.com/logos/xml-2.svg" width="50" height="50" /></kbd> 
+<kbd><img src="https://cdn.worldvectorlogo.com/logos/postman.svg" width="50" height="50" /></kbd> 
 
 
 #### ![](https://komarev.com/ghpvc/?username=milyo001&color=grey)
