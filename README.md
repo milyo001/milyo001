@@ -30,6 +30,8 @@
 <kbd><img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server-1.svg" width="50" height="50" /></kbd> 
 <kbd><img src="https://codeopinion.com/wp-content/uploads/2017/10/Bitmap-MEDIUM_Entity-Framework-Core-Logo_2colors_Square_Boxed_RGB.png" width="50" height="50" /></kbd> 
 <kbd><img src="https://cdn.worldvectorlogo.com/logos/azure-1.svg" width="50" height="50" /></kbd> 
+<kbd><img src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" width="50" height="50" /></kbd> 
+<kbd><img src="https://backendless.com/wp-content/uploads/2019/03/square_logo_450x450.png" width="50" height="50" /></kbd> 
 <kbd><img src="https://cdn.worldvectorlogo.com/logos/jwt-3.svg" width="50" height="50" /></kbd> 
 #### Common
 <kbd><img src="https://cdn.worldvectorlogo.com/logos/json.svg" width="50" height="50" /></kbd> 
