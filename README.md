@@ -19,6 +19,7 @@
 <kbd><img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="test" width="50" height="50"/></kbd>
 <kbd><img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" width="50" height="50"/></kbd> 
 <kbd><img src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg" width="50" height="50" /></kbd>
+<kbd><img src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" width="50" height="50" /></kbd> 
 <kbd><img src="https://cdn.worldvectorlogo.com/logos/rxjs-1.svg" width="50" height="50" /></kbd> 
 <kbd><img src="https://cdn.worldvectorlogo.com/logos/npm.svg" width="50" height="50" /></kbd> 
 <kbd><img src="https://cdn.worldvectorlogo.com/logos/yarn.svg" width="50" height="50" /></kbd> 
@@ -35,6 +36,11 @@
 <kbd><img src="http://taswar.zeytinsoft.com/wp-content/uploads/2011/03/automapper-logo.jpg" width="50" height="50" /></kbd> 
 <kbd><img src="https://cdn.worldvectorlogo.com/logos/stripe-4.svg" width="50" height="50" /></kbd> 
 <kbd><img src="https://cdn.worldvectorlogo.com/logos/handlebars.svg" width="50" height="50" /></kbd> 
+<kbd><img src="https://cdn.worldvectorlogo.com/logos/jwt-3.svg" width="50" height="50" /></kbd> 
+#### Testing
+<kbd><img src="https://cdn.worldvectorlogo.com/logos/jwt-3.svg" width="50" height="50" /></kbd> 
+<kbd><img src="https://cdn.worldvectorlogo.com/logos/jwt-3.svg" width="50" height="50" /></kbd> 
+<kbd><img src="https://cdn.worldvectorlogo.com/logos/jwt-3.svg" width="50" height="50" /></kbd> 
 <kbd><img src="https://cdn.worldvectorlogo.com/logos/jwt-3.svg" width="50" height="50" /></kbd> 
 #### Common
 <kbd><img src="https://cdn.worldvectorlogo.com/logos/json.svg" width="50" height="50" /></kbd> 
