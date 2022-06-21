@@ -24,6 +24,8 @@
 <kbd><img src="https://cdn.worldvectorlogo.com/logos/npm.svg" width="50" height="50" /></kbd> 
 <kbd><img src="https://cdn.worldvectorlogo.com/logos/yarn.svg" width="50" height="50" /></kbd> 
 <kbd><img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" width="50" height="50" /></kbd> 
+<kbd><img src="https://cdn.worldvectorlogo.com/logos/jasmine-1.svg" width="50" height="50" /></kbd> 
+<kbd><img src="https://cdn.worldvectorlogo.com/logos/karma.svg" width="50" height="50" /></kbd> 
 
 #### Back-end
 <kbd><img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" width="50" height="50" /></kbd> 
@@ -37,11 +39,7 @@
 <kbd><img src="https://cdn.worldvectorlogo.com/logos/stripe-4.svg" width="50" height="50" /></kbd> 
 <kbd><img src="https://cdn.worldvectorlogo.com/logos/handlebars.svg" width="50" height="50" /></kbd> 
 <kbd><img src="https://cdn.worldvectorlogo.com/logos/jwt-3.svg" width="50" height="50" /></kbd> 
-#### Testing
-<kbd><img src="https://cdn.worldvectorlogo.com/logos/jwt-3.svg" width="50" height="50" /></kbd> 
-<kbd><img src="https://cdn.worldvectorlogo.com/logos/jwt-3.svg" width="50" height="50" /></kbd> 
-<kbd><img src="https://cdn.worldvectorlogo.com/logos/jwt-3.svg" width="50" height="50" /></kbd> 
-<kbd><img src="https://cdn.worldvectorlogo.com/logos/jwt-3.svg" width="50" height="50" /></kbd> 
+<kbd><img src="https://avatars.githubusercontent.com/u/2092016?s=280&v=4" width="50" height="50" /></kbd> 
 #### Common
 <kbd><img src="https://cdn.worldvectorlogo.com/logos/json.svg" width="50" height="50" /></kbd> 
 <kbd><img src="https://cdn.worldvectorlogo.com/logos/xml-2.svg" width="50" height="50" /></kbd> 
