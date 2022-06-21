@@ -44,6 +44,9 @@
 <kbd><img src="https://cdn.worldvectorlogo.com/logos/json.svg" width="50" height="50" /></kbd> 
 <kbd><img src="https://cdn.worldvectorlogo.com/logos/xml-2.svg" width="50" height="50" /></kbd> 
 <kbd><img src="https://cdn.worldvectorlogo.com/logos/postman.svg" width="50" height="50" /></kbd> 
+<kbd><img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" width="50" height="50" /></kbd> 
+<kbd><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/768px-Visual_Studio_Icon_2019.svg.png?20210214224138" width="50" height="50" /></kbd> 
+
 
 
 #### ![](https://komarev.com/ghpvc/?username=milyo001&color=grey)
