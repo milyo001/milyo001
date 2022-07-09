@@ -12,6 +12,9 @@
 * 📢 We can communicate in English, German and Bulgarian. 💡 
 * 📫 How to reach me: [💼 LinkedIn](https://www.linkedin.com/in/miroslav-ilyovski-2ab573150) or 📫 [email](mailto:ilyovskim@gmail.com)
 
+### Real world project(currently building with Angular): https://fancy-profiterole-d7a615.netlify.app/
+
+
 ## Toolbox :toolbox:
 #### Front-end
 <kbd><img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width="50" height="50" /></kbd> 
