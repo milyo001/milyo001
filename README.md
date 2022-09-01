@@ -5,7 +5,6 @@
 <br />
 
 * 🔭 I'm currently refreshing my theoretical knowledge.
-* 🌱 I’m am learning from a React official documentation when I am free.
 * 🤔 I’m looking for help with: nothing at the moment, trying to learn stuff by myself. Open for tips and tricks tho! 
 * 💬 Ask me about: anything.
 * 💖 Hobbies: :fire: working out, :tent: hiking, :video_game: video games, :chart_with_upwards_trend: stock/crypto trading and :computer: obviously coding :grin:.
