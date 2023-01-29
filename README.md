@@ -25,7 +25,7 @@
 <kbd><img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" width="50" height="50" /></kbd> 
 <kbd><img src="https://cdn.worldvectorlogo.com/logos/jasmine-1.svg" width="50" height="50" /></kbd> 
 <kbd><img src="https://cdn.worldvectorlogo.com/logos/karma.svg" width="50" height="50" /></kbd>
-<kbd><link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"></kbd>
+<kbd><img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" width="50" height="50" /></kbd>
 
 #### Back-end
 <kbd><img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" width="50" height="50" /></kbd> 
