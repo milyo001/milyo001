@@ -20,6 +20,8 @@
 <kbd><img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" width="50" height="50"/></kbd> 
 <kbd><img src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg" width="50" height="50" /></kbd>
 <kbd><img src="https://cdn.worldvectorlogo.com/logos/angular.svg" width="50" height="50" /></kbd>
+<kbd><img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" width="50" height="50" /></kbd>
+<kbd><img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" width="50" height="50" /></kbd>
 <kbd><img src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" width="50" height="50" /></kbd> 
 <kbd><img src="https://cdn.worldvectorlogo.com/logos/rxjs-1.svg" width="50" height="50" /></kbd>
 <kbd><img src="https://cdn.worldvectorlogo.com/logos/redux.svg" width="50" height="50" /></kbd>
@@ -52,6 +54,8 @@
 <kbd><img src="https://cdn.worldvectorlogo.com/logos/postman.svg" width="50" height="50" /></kbd> 
 <kbd><img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" width="50" height="50" /></kbd> 
 <kbd><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/768px-Visual_Studio_Icon_2019.svg.png?20210214224138" width="50" height="50" /></kbd> 
+<kbd><img src="https://cdn.worldvectorlogo.com/logos/google-analytics-4.svg" width="50" height="50" /></kbd> 
+<kbd><img src="https://cdn.worldvectorlogo.com/logos/linux-tux.svg" width="50" height="50" /></kbd> 
 
 
 
