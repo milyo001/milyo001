@@ -9,6 +9,11 @@
 * 📢 We can communicate in English, German and Bulgarian. 💡 
 * 📫 How to reach me: [💼 LinkedIn](https://www.linkedin.com/in/miroslav-ilyovski-2ab573150) or 📫 [email](mailto:ilyovskim@gmail.com)
 
+### Personal projects (generating revenue and SEO optimized) <kbd><img src="https://www.svgrepo.com/show/293364/science-shapes.svg" width="25" height="25" /></kbd>
+1. <kbd><img src="https://www.airport-transfersbg.com/images/logo_white.png" width="80" height="25" /></kbd> [https://www.airport-transfersbg.com](https://www.airport-transfersbg.com) - React/NextJS 13+, Firebase, Stripe, Google Maps APIs, Custom SMTP
+2. <kbd><img src="https://ik.imagekit.io/sijd1fdf0u/logo-text.webp?updatedAt=1682499295486" width="40" height="25" /></kbd> [https://vipdrinkdrive.com](https://vipdrinkdrive.com) - Angular Universal, Google Maps APIs
+2. <kbd><img src="https://photography-ks.com/_next/image?url=%2Fimages%2Fhero%2Fhero_white.png&w=750&q=75" width="50" height="25" /></kbd> [https://photography-ks.com/](https://photography-ks.com/) - React/NextJS
+2. <kbd><img src="https://advokatzarinadakova.com/assets/images/shared/logo-main.webp" width="50" height="25" /></kbd> [https://advokatzarinadakova.com/](https://advokatzarinadakova.com/) - Angular Universal
 
 ## Toolbox :toolbox:
 #### Front-end
