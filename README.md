@@ -9,11 +9,12 @@
 * 📢 We can communicate in English, German and Bulgarian. 💡 
 * 📫 How to reach me: [💼 LinkedIn](https://www.linkedin.com/in/miroslav-ilyovski-2ab573150) or 📫 [email](mailto:ilyovskim@gmail.com)
 
-### Personal projects (generating revenue and SEO optimized) <kbd><img src="https://www.svgrepo.com/show/293364/science-shapes.svg" width="25" height="25" /></kbd>
-1. <kbd><img src="https://www.airport-transfersbg.com/images/logo_white.png" width="100" height="25" /></kbd> [https://www.airport-transfersbg.com](https://www.airport-transfersbg.com) - React/NextJS 13+, Firebase, Stripe, Google Maps APIs, Custom SMTP
-2. <kbd><img src="https://ik.imagekit.io/sijd1fdf0u/logo-text.webp?updatedAt=1682499295486" width="40" height="25" /></kbd> [https://vipdrinkdrive.com](https://vipdrinkdrive.com) - Angular Universal, Google Maps APIs
-2. <kbd><img src="https://photography-ks.com/_next/image?url=%2Fimages%2Fhero%2Fhero_white.png&w=750&q=75" width="50" height="25" /></kbd> [https://photography-ks.com/](https://photography-ks.com/) - React/NextJS
-2. <kbd><img src="https://advokatzarinadakova.com/assets/images/shared/logo-main.webp" width="70" height="25" /></kbd> [https://advokatzarinadakova.com/](https://advokatzarinadakova.com/) - Angular Universal
+### Personal projects
+1. <kbd>[https://www.airport-transfersbg.com](https://www.airport-transfersbg.com) - React/NextJS 13, Firebase, Stripe API, Google Maps APIs, Custom SMTP, TailwindCSS, Responsive design</kbd> 
+2. <kbd>[https://vipdrinkdrive.com](https://vipdrinkdrive.com) - Angular Universal, Google Maps APIs, Formspark API, Angular Material, Responsive design</kbd>
+2. <kbd>[https://photography-ks.com/](https://photography-ks.com/) - React/NextJS, React-image-lightbox, Responsive design</kbd> 
+2. <kbd>[https://advokatzarinadakova.com/](https://advokatzarinadakova.com/) - Angular 15, Angular Universal SSR, TailwindCSS, Responsive design</kbd> 
+2. <kbd>[https://advokatzarinadakova.com/](https://vapeflare.net/)- Angular 15, Angular Universal SSR, CSS, Responsive design, RxJS</kbd> 
 
 ## Toolbox :toolbox:
 #### Front-end
