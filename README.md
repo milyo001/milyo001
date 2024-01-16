@@ -10,11 +10,11 @@
 * 📫 How to reach me: [💼 LinkedIn](https://www.linkedin.com/in/miroslav-ilyovski-2ab573150) or 📫 [email](mailto:ilyovskim@gmail.com)
 
 ### Personal projects
-1. <kbd>[airport-transfersbg.com](https://airport-transfersbg.com/) - React/NextJS 13, Typescript, Firebase, Stripe API, Google Maps APIs, Custom SMTP, TailwindCSS, Responsive design, <br><br> Light/Dark Mode</kbd> 
-2. <kbd>[vipdrinkdrive.com](https://vipdrinkdrive.com/) - Angular 17, Angular Universal, Typescript, Google Maps APIs, Formspark API, Angular Material, Responsive design</kbd>
-2. <kbd>[photography-ks.com](https://photography-ks.com/) - React/NextJS, Typescript, React-image-lightbox, Responsive design, Light/Dark Mode</kbd> 
-2. <kbd>[advokatzarinadakova.com](https://advokatzarinadakova.com/) - Angular 15, Typescript, Angular Universal SSR, TailwindCSS, Responsive design</kbd> 
-2. <kbd>[vapeflare.net](https://vapeflare.net/)- Angular 15, Typescript, Angular Universal SSR, CSS, Responsive design, RxJS, Mobile First Design</kbd> 
+1. <kbd>[airport-transfersbg.com](https://airport-transfersbg.com/)</kbd> - React/NextJS 13, Typescript, Firebase, Stripe API, Google Maps APIs, Custom SMTP, TailwindCSS, Responsive design, Light/Dark Mode
+2. <kbd>[vipdrinkdrive.com](https://vipdrinkdrive.com/)</kbd> - Angular 17, Angular Universal, Typescript, Google Maps APIs, Formspark API, Angular Material, Responsive design
+2. <kbd>[photography-ks.com](https://photography-ks.com/)</kbd> - React/NextJS, Typescript, React-image-lightbox, Responsive design, Light/Dark Mode
+2. <kbd>[advokatzarinadakova.com](https://advokatzarinadakova.com/)</kbd> - Angular 15, Typescript, Angular Universal SSR, TailwindCSS, Responsive design
+2. <kbd>[vapeflare.net](https://vapeflare.net/)</kbd> - Angular 15, Typescript, Angular Universal SSR, CSS, Responsive design, RxJS, Mobile First Design
 
 ## Toolbox :toolbox:
 #### Front-end
