@@ -14,7 +14,7 @@
 2. <kbd>[vipdrinkdrive.com](https://vipdrinkdrive.com/)</kbd> - Angular 17, Angular Universal, Typescript, Google Maps APIs, Formspark API, Angular Material, Responsive design
 2. <kbd>[photography-ks.com](https://photography-ks.com/)</kbd> - React/NextJS, Typescript, React-image-lightbox, Responsive design, Light/Dark Mode
 2. <kbd>[advokatzarinadakova.com](https://advokatzarinadakova.com/)</kbd> - Angular 15, Typescript, Angular Universal SSR, TailwindCSS, Responsive design
-2. <kbd>[vapeflare.net](https://vapeflare.net/)</kbd> - Angular 15, Typescript, Angular Universal SSR, CSS, Responsive design, RxJS, Mobile First Design
+2. <kbd>[vapeflare.net](https://vapeflare.net/)</kbd> - Angular 17, Full Standalone Components, Typescript, Angular SSR, prerendered on netlify with Angular Universal SSR, CSS, Tailwind CSS, Responsive design, RxJS, Mobile First Design, Defer loading components, NgOptimizedImage, Angular Material 17
 
 ## Toolbox :toolbox:
 #### Front-end
