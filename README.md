@@ -2,15 +2,13 @@
 
 <br />
 
-* 🔭 I'm currently working in Soft2Run.
-* 🤔 I’m looking for help with: nothing at the moment, trying to learn stuff by myself. Open for tips and tricks tho! 
-* 💬 Ask me about: anything.
+* 🔭 I'm currently working in Soft2Run.=
 * 💖 Hobbies: :fire: working out, :tent: hiking, :video_game: video games, :chart_with_upwards_trend: stock/crypto trading and :computer: obviously coding :grin:.
 * 📢 We can communicate in English, German and Bulgarian. 
 * 📫 How to reach me: [💼 LinkedIn](https://www.linkedin.com/in/miroslav-ilyovski-2ab573150) or 📫 [email](mailto:ilyovskim@gmail.com)
 
 ### Personal projects
-1. <kbd>[airport-transfersbg.com](https://airport-transfersbg.com/)</kbd> - React/NextJS 13, Typescript, Firebase, Stripe API, Google Maps APIs, Custom SMTP, TailwindCSS, Responsive design, Light/Dark Mode
+1. <kbd>[airport-transfersbg.com](https://airport-transfersbg.com/)</kbd> - ReactJS/NextJS 13, Typescript, Firebase - Cloud Firestore, Stripe API, Google Maps APIs, Custom SMTP, TailwindCSS, Responsive design, Light/Dark Mode
 2. <kbd>[vipdrinkdrive.com](https://vipdrinkdrive.com/)</kbd> - Angular 17, Angular Universal, Typescript, Google Maps APIs, Formspark API, Angular Material, Responsive design
 2. <kbd>[photography-ks.com](https://photography-ks.com/)</kbd> - React/NextJS, Typescript, React-image-lightbox, Responsive design, Light/Dark Mode
 2. <kbd>[advokatzarinadakova.com](https://advokatzarinadakova.com/)</kbd> - Angular 15, Typescript, Angular Universal SSR, TailwindCSS, Responsive design
