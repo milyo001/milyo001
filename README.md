@@ -2,7 +2,7 @@
 
 <br />
 
-* 🔭 I'm currently working in Soft2Run.=
+* 🔭 I'm currently working in Soft2Run.
 * 💖 Hobbies: :fire: working out, :tent: hiking, :video_game: video games, :chart_with_upwards_trend: stock/crypto trading and :computer: obviously coding :grin:.
 * 📢 We can communicate in English, German and Bulgarian. 
 * 📫 How to reach me: [💼 LinkedIn](https://www.linkedin.com/in/miroslav-ilyovski-2ab573150) or 📫 [email](mailto:ilyovskim@gmail.com)
