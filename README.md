@@ -7,13 +7,6 @@
 * 📢 We can communicate in English, German and Bulgarian. 
 * 📫 How to reach me: [💼 LinkedIn](https://www.linkedin.com/in/miroslav-ilyovski-2ab573150) or 📫 [email](mailto:ilyovskim@gmail.com)
 
-### Personal projects
-1. <kbd>[airport-transfersbg.com](https://airport-transfersbg.com/)</kbd> - ReactJS/NextJS 13, Typescript, Firebase - Cloud Firestore, Stripe API, Google Maps APIs, Custom SMTP, TailwindCSS, Responsive design, Light/Dark Mode
-2. <kbd>[vipdrinkdrive.com](https://vipdrinkdrive.com/)</kbd> - Angular 17, Angular Universal, Typescript, Google Maps APIs, Formspark API, Angular Material, Responsive design
-2. <kbd>[photography-ks.com](https://photography-ks.com/)</kbd> - React/NextJS, Typescript, React-image-lightbox, Responsive design, Light/Dark Mode
-2. <kbd>[advokatzarinadakova.com](https://advokatzarinadakova.com/)</kbd> - Angular 15, Typescript, Angular Universal SSR, TailwindCSS, Responsive design
-2. <kbd>[vapeflare.net](https://vapeflare.net/)</kbd> - Angular 17, Full Standalone Components, Typescript, Angular SSR, prerendered on netlify with Angular Universal SSR, CSS, Tailwind CSS, Responsive design, RxJS, Mobile First Design, Defer loading components, NgOptimizedImage, Angular Material 17
-
 ## Toolbox :toolbox:
 #### Front-end
 <kbd><img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width="50" height="50" /></kbd> 
